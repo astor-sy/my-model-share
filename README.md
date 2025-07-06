@@ -17,7 +17,7 @@ This package includes data and models related to solar flares:
 - `catalog.csv`
   - Catalog of solar flares, including labels, start time, peak time, end time, and the GOES satellite number used for each event
 - `model/`
-  - Pre-trained solar flare classification/regression model
+  - Pre-trained solar flare classification model
 - `train_results/`
   - Training results and evaluation metrics for the solar flare model
 
